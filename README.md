@@ -1,2 +1,2 @@
 # kaggle
-solutions for various kaggle competitions
+Solutions for various kaggle competitions using fast.ai library
